@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\services\\searchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\services\\searchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\services\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\services\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\services\\isearchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\services\\isearchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\models\\websearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\models\\websearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\models\\websearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\models\\websearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\models\\dto\\websearchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\models\\dto\\websearchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\helper\\automapperhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\helper\\automapperhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\views\\search\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\views\\search\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\views\\search\\historical.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\views\\search\\historical.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|c:\\repo\\4 - mvc\\keywordscan\\keywordscan.web\\keywordscan.web\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3564A2-BBF5-416C-8C18-700558D38D47}|KeywordScan.Web\\KeywordScan.Web.csproj|solutionrelative:keywordscan.web\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Program.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Program.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Program.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:17:09.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebSearchResponseDto.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Models\\Dto\\WebSearchResponseDto.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Models\\Dto\\WebSearchResponseDto.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Models\\Dto\\WebSearchResponseDto.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Models\\Dto\\WebSearchResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:16:33.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KeywordScan.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T10:15:44.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KeywordScan.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:11:03.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Search\\Result.cshtml",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Views\\Search\\Result.cshtml",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Search\\Result.cshtml",
+              "RelativeToolTip": "KeywordScan.Web\\Views\\Search\\Result.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:10:29.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Historical.cshtml",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Search\\Historical.cshtml",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Views\\Search\\Historical.cshtml",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Search\\Historical.cshtml",
+              "RelativeToolTip": "KeywordScan.Web\\Views\\Search\\Historical.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:10:20.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "KeywordScan.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:10:17.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KeywordScan.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:10:15.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Services\\SearchService.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Services\\SearchService.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Services\\SearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:07:06.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchRepository.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Services\\SearchRepository.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Services\\SearchRepository.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Services\\SearchRepository.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Services\\SearchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:06:59.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISearchService.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Services\\ISearchService.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Services\\ISearchService.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Services\\ISearchService.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Services\\ISearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:06:55.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISearchRepository.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Services\\ISearchRepository.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Services\\ISearchRepository.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Services\\ISearchRepository.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Services\\ISearchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:06:53.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebSearchResponse.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Models\\WebSearchResponse.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Models\\WebSearchResponse.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Models\\WebSearchResponse.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Models\\WebSearchResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:06:45.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Search\\Index.cshtml",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Views\\Search\\Index.cshtml",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Views\\Search\\Index.cshtml",
+              "RelativeToolTip": "KeywordScan.Web\\Views\\Search\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:06:28.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebSearchRequest.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Models\\WebSearchRequest.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Models\\WebSearchRequest.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Models\\WebSearchRequest.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Models\\WebSearchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:06:08.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:06:07.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoMapperHandler.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Helper\\AutoMapperHandler.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Helper\\AutoMapperHandler.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Helper\\AutoMapperHandler.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Helper\\AutoMapperHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:05:52.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:05:49.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:05:36.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KeywordScan.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\REPO\\4 - MVC\\KeywordScan\\KeywordScan.Web\\KeywordScan.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KeywordScan.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:05:32.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

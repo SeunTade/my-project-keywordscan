@@ -1,0 +1,41 @@
+﻿@model List<KeywordScan.Web.Models.Dto.WebSearchResponseDto>
+
+@{
+    ViewData["Title"] = "Search Results List";
+}
+
+<h2>Search Results</h2>
+
+<table border="1" cellpadding="6" cellspacing="0" style="width: 100%; max-width: 900px; margin: 0 auto;">
+    <thead>
+        <tr>
+            <th>Search Engine</th>
+            <th>Row Count</th>
+            <th>Positions</th>
+            <th>Run Time</th>
+            <th>Messages</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.SearchEngine</td>
+                <td>@item.RowCount</td>
+                <td>@item.PositionsIndex</td>
+                <td>@item.RunTime?.ToString("g")</td>
+                <td>
+                    @if (item.Messages?.Any() == true)
+                    {
+                        <ul style="margin: 0; padding-left: 20px;">
+                            @foreach (var msg in item.Messages)
+                            {
+                                <li>@msg</li>
+                            }
+                        </ul>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

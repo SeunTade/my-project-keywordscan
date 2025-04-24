@@ -1,0 +1,41 @@
+﻿@model KeywordScan.Web.Models.Dto.WebSearchResponseDto
+@using System.Linq
+
+@{
+    ViewData["Title"] = "Search Results";
+}
+
+<form asp-action="SaveSearchResult" method="post"> 
+    <input type="hidden" name="RowCount" value="@Model.RowCount" />
+    <input type="hidden" name="PositionsIndex" value="@Model.PositionsIndex" />
+
+    @for (int i = 0; i < Model.Messages.Count; i++)
+    {
+        <input type="hidden" name="Messages[@i]" value="@Model.Messages[i]" />
+    }
+
+    <div style="width: 300px; margin: 0 auto;">
+        <div style="margin-bottom: 15px;">
+            <p><strong>Position Count:</strong> @Model.RowCount</p>
+            <p><strong>Position Indices:</strong> @Model.PositionsIndex</p>
+        </div>
+
+        @if (Model.Messages?.Any() == true)
+        {
+            <div style="margin-bottom: 15px;">
+                <h4 style="margin-bottom: 5px;">Messages:</h4>
+                <ul style="padding-left: 20px; margin: 0;">
+                    @foreach (var message in Model.Messages)
+                    {
+                        <li>@message</li>
+                    }
+                </ul>
+            </div>
+        }
+
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="/Search/Index">Back to Search</a>
+            <button type="submit" style="margin-left: 10px;">Save</button>
+        </div>
+    </div>
+</form>

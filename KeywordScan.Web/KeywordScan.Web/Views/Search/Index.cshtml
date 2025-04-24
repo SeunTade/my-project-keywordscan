@@ -1,0 +1,26 @@
+﻿@model KeywordScan.Web.Models.WebSearchrequest
+@{
+    ViewData["Title"] = "Keyword Search";
+}
+<h2>Keyword Search</h2>
+
+<form asp-action="Search" method="post">
+    <div style="width: 300px; margin: 0 auto;">
+        <div style="margin-bottom: 10px;">
+            <label for="Keywords">Keyword:</label>
+            <input type="text" name="Keywords" id="Keywords" style="width: 100%;" />
+        </div>
+
+        <div style="margin-bottom: 10px;">
+            <label for="Url">URL:</label>
+            <input type="text" name="Url" id="Url" style="width: 100%;" />
+        </div>
+
+        <button type="submit">Search</button>
+    </div>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div style="color:red; text-align: left; margin-top: 10px;">Please fill both fields correctly.</div>
+}

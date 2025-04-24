@@ -1,0 +1,476 @@
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\appsettings.Development.json
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\appsettings.json
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.staticwebassets.runtime.json
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.staticwebassets.endpoints.json
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.exe
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.deps.json
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.runtimeconfig.json
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.pdb
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.csproj.AssemblyReference.cache
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.AssemblyInfoInputs.cache
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.AssemblyInfo.cs
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.csproj.CoreCompileInputs.cache
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.RazorAssemblyInfo.cache
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.RazorAssemblyInfo.cs
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\scopedcss\bundle\KeywordScan.Web.styles.css
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\scopedcss\projectbundle\KeywordScan.Web.bundle.scp.css
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\nxv7xe3fnt-b9sayid5wm.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\5o3n6zqan2-61n19gt1b8.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\lvo5i8rtr0-xtxxf3hu2r.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\3jc0nqwy5m-bqjiyaj88i.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\6akszbvg01-c2jlpeoesf.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\thyjl2dzbb-erw9l3u2r3.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\o1c0tslxws-aexeepp0ev.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\bx7224t3w5-d7shbmvgxk.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\bz8ps43p1r-ausgxo2sd3.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\jd7h7p2v9z-k8d9w2qqmf.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\zb4of64iu6-cosvhxvwiu.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\y15zp5s1km-ub07r2b239.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\x9g5i1mzfn-fvhpjtyr6v.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\x9ft8mm34o-b7pk76d08c.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\41z7d6ms4z-fsbi9cje9m.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\ec28vx62zp-rzd6atqjts.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\9akktkkd56-ee0r1s7dh0.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\q4tzftoa6n-dxx9fxp4il.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\knp33wqox0-jd9uben2k1.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\hpfkjj7vj2-khv3u5hwcm.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\rdtu0sgqur-r4e9w2rdcm.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\e05o0fck2w-lcd1t2u6c8.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\8ws1kil6tv-c2oey78nd0.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\f3uwkt6woy-tdbxkamptv.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\7zhvn99hje-j5mq2jizvt.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\0ehsv0jyhi-06098lyss8.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\r2seavnn3w-nvvlpmu67g.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\nutnjalcyi-s35ty4nyc5.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\ovc81fwt5g-pj5nd1wqec.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\44k1626mmd-46ein0sx1k.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\fqbxqpzppj-v0zj4ognzu.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\eexd2829jc-37tfw0ft22.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\oineopdi76-hrwsygsryq.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\y1d4nvem2f-pk9g2wxc8p.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\snokcc9hg7-ft3s53vfgj.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\pyzp6b4k2u-6cfz1n2cew.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\p9hzm06hic-6pdc2jztkx.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\nov25ub2rf-493y06b0oq.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\xihhb01xbz-iovd86k7lj.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\vgp4ccozza-vr1egmr9el.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\pdeavxmt50-kbrnm935zg.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\irpgald1pe-jj8uyg4cgr.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\7ekihhn94x-y7v9cxd14o.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\whprdhvpxv-notf2xhcfb.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\l4ligkzb1i-h1s4sie4z3.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\t62rz23eem-63fj8s7r0e.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\gzcrc8hi3x-0j3bgjxly4.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\3rpr899j71-47otxtyo56.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\ltydx4sb4b-4v8eqarkd7.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\93fkszgvpe-356vix0kms.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\v7ihhjnuy2-83jwlth58m.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\fsaa2fql1s-mrlpezrjn3.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\x02kvsidgn-lzl9nlhx6b.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\nlpdy46mgj-ag7o75518u.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\vfmswo9u3m-x0q3zqp4vz.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\zlkse9tla9-0i3buxo5is.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\q8ov6xqmf2-o1o13a6vjx.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\fgu7bgwb1b-ttgo8qnofa.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\r8ta12ehr9-2z0ns9nrw6.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\eu7118085p-muycvpuwrr.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\c0w2mr501b-87fc7y1x7t.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\5v0zvxxg92-mlv21k5csn.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\xdpjd8ieqd-zjqt304rua.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\rc5ux0iu6x-zjqt304rua.gz
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets\msbuild.KeywordScan.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets\msbuild.KeywordScan.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets\msbuild.build.KeywordScan.Web.props
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.KeywordScan.Web.props
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.KeywordScan.Web.props
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets.pack.json
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordS.7665B37F.Up2Date
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\refint\KeywordScan.Web.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.pdb
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.genruntimeconfig.cache
+C:\REPO\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\ref\KeywordScan.Web.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Azure.Core.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Azure.Identity.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Humanizer.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.ClientModel.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.CodeDom.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Memory.Data.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Text.Json.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\REPO\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\AutoMapper.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\appsettings.Development.json
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\appsettings.json
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.staticwebassets.endpoints.json
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.staticwebassets.runtime.json
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.exe
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.deps.json
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.runtimeconfig.json
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\KeywordScan.Web.pdb
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\AutoMapper.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Azure.Core.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Azure.Identity.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Humanizer.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.ClientModel.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.CodeDom.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Memory.Data.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Text.Json.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.csproj.AssemblyReference.cache
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.AssemblyInfoInputs.cache
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.AssemblyInfo.cs
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.csproj.CoreCompileInputs.cache
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.RazorAssemblyInfo.cache
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.RazorAssemblyInfo.cs
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\scopedcss\bundle\KeywordScan.Web.styles.css
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\scopedcss\projectbundle\KeywordScan.Web.bundle.scp.css
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\nxv7xe3fnt-b9sayid5wm.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\5o3n6zqan2-61n19gt1b8.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\lvo5i8rtr0-xtxxf3hu2r.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\3jc0nqwy5m-bqjiyaj88i.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\6akszbvg01-c2jlpeoesf.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\thyjl2dzbb-erw9l3u2r3.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\o1c0tslxws-aexeepp0ev.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\bx7224t3w5-d7shbmvgxk.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\bz8ps43p1r-ausgxo2sd3.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\jd7h7p2v9z-k8d9w2qqmf.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\zb4of64iu6-cosvhxvwiu.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\y15zp5s1km-ub07r2b239.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\x9g5i1mzfn-fvhpjtyr6v.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\x9ft8mm34o-b7pk76d08c.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\41z7d6ms4z-fsbi9cje9m.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\ec28vx62zp-rzd6atqjts.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\9akktkkd56-ee0r1s7dh0.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\q4tzftoa6n-dxx9fxp4il.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\knp33wqox0-jd9uben2k1.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\hpfkjj7vj2-khv3u5hwcm.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\rdtu0sgqur-r4e9w2rdcm.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\e05o0fck2w-lcd1t2u6c8.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\8ws1kil6tv-c2oey78nd0.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\f3uwkt6woy-tdbxkamptv.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\7zhvn99hje-j5mq2jizvt.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\0ehsv0jyhi-06098lyss8.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\r2seavnn3w-nvvlpmu67g.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\nutnjalcyi-s35ty4nyc5.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\ovc81fwt5g-pj5nd1wqec.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\44k1626mmd-46ein0sx1k.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\fqbxqpzppj-v0zj4ognzu.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\eexd2829jc-37tfw0ft22.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\oineopdi76-hrwsygsryq.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\y1d4nvem2f-pk9g2wxc8p.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\snokcc9hg7-ft3s53vfgj.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\pyzp6b4k2u-6cfz1n2cew.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\p9hzm06hic-6pdc2jztkx.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\nov25ub2rf-493y06b0oq.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\xihhb01xbz-iovd86k7lj.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\vgp4ccozza-vr1egmr9el.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\pdeavxmt50-kbrnm935zg.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\irpgald1pe-jj8uyg4cgr.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\7ekihhn94x-y7v9cxd14o.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\whprdhvpxv-notf2xhcfb.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\l4ligkzb1i-h1s4sie4z3.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\t62rz23eem-63fj8s7r0e.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\gzcrc8hi3x-0j3bgjxly4.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\3rpr899j71-47otxtyo56.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\ltydx4sb4b-4v8eqarkd7.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\93fkszgvpe-356vix0kms.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\v7ihhjnuy2-83jwlth58m.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\fsaa2fql1s-mrlpezrjn3.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\x02kvsidgn-lzl9nlhx6b.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\nlpdy46mgj-ag7o75518u.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\vfmswo9u3m-x0q3zqp4vz.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\zlkse9tla9-0i3buxo5is.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\q8ov6xqmf2-o1o13a6vjx.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\fgu7bgwb1b-ttgo8qnofa.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\r8ta12ehr9-2z0ns9nrw6.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\eu7118085p-muycvpuwrr.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\c0w2mr501b-87fc7y1x7t.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\5v0zvxxg92-mlv21k5csn.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\xdpjd8ieqd-zjqt304rua.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\compressed\rc5ux0iu6x-zjqt304rua.gz
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets\msbuild.KeywordScan.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets\msbuild.KeywordScan.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets\msbuild.build.KeywordScan.Web.props
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.KeywordScan.Web.props
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.KeywordScan.Web.props
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets.pack.json
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordS.7665B37F.Up2Date
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\refint\KeywordScan.Web.dll
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.pdb
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\KeywordScan.Web.genruntimeconfig.cache
+C:\REPO\4 - MVC\KeywordScan\KeywordScan.Web\KeywordScan.Web\obj\Debug\net9.0\ref\KeywordScan.Web.dll
